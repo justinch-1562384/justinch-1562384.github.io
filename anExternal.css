@@ -1,0 +1,19 @@
+body {
+    background-color: lightblue;
+    font-family: 'Times New Roman', Times, serif
+}
+
+h1 {
+    font-size: 30px;
+    background-color: white;
+}
+
+img {
+    border: 8px solid indianred; 
+    border-radius: 4px;
+}
+
+ul {
+    float: right;
+    margin: 0 0 10px 10px;
+}
